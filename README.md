@@ -6,7 +6,7 @@
 
 ### 1. _Extract_ (Extrair)
 
-Nessa etapa, o objetivo é trazer os dados brutos da fonte original para o ambiente do Power BI. No caso, a pasta de trabalho do Excel de exemplo financeiro está disponível por meio do [link](https://go.microsoft.com/fwlink/?LinkID=521962) e foi hospedada no repositório deste [Desafio de Projeto](https://github.com/costandrad/dio-project-challenge-managerial-dashboard-with-power-bi/). Assim, no Power BI, a extração dos dados é feita clicando em "Obter Dados" → "Da web" e informando a URL _raw_ [https://raw.githubusercontent.com/costandrad/dio-project-challenge-managerial-dashboard-with-power-bi/main/01-database/financial_sample.xlsx](https://raw.githubusercontent.com/costandrad/dio-project-challenge-managerial-dashboard-with-power-bi/main/01-database/financial_sample.xlsx).
+Nessa etapa, o objetivo é trazer os dados brutos da fonte original para o ambiente do Power BI. No caso, a pasta de trabalho do Excel de exemplo financeiro está disponível por meio do [link](https://go.microsoft.com/fwlink/?LinkID=521962) e foi hospedada no repositório deste [Desafio de Projeto](https://github.com/costandrad/dio-project-challenge-sales-and-profit-report-with-data-analytics/). Assim, no Power BI, a extração dos dados é feita clicando em "Obter Dados" → "Da web" e informando a URL _raw_ [https://raw.githubusercontent.com/costandrad/dio-project-challenge-managerial-dashboard-with-power-bi/main/01-database/financial_sample.xlsx](https://raw.githubusercontent.com/costandrad/dio-project-challenge-sales-and-profit-report-with-data-analytics/main/01-database/financial_sample.xlsx).
 
 
 ### 2. _Transform_ (Transformar)
